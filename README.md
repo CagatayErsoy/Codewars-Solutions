@@ -17,6 +17,7 @@
 [....¡Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1)| [solution](https://github.com/Latecoder-hub/Codewars-Solutions/blob/main/Codewars/Take%20a%20Number%20And%20Sum%20Its%20Digits%20Raised%20To%20The%20Consecutive%20Powers%20And%20....%C2%A1Eureka!!.js) 
 [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) | [solution](https://github.com/Latecoder-hub/Codewars-Solutions/blob/main/Codewars/Take%20a%20Ten%20Minute%20Walk.js)
 [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)| [solution](https://github.com/Latecoder-hub/Codewars-Solutions/blob/main/Codewars/Who%20likes%20it%3F.js)
+[Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/solutions/javascript)| [solution](https://github.com/Latecoder-hub/Codewars-Solutions/blob/main/Codewars/Persistent%20Bugger.js)
 
 
 <h1></h1> :arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up:
