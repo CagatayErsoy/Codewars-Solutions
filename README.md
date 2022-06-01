@@ -19,6 +19,6 @@
 [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)| [solution](https://github.com/Latecoder-hub/Codewars-Solutions/blob/main/Codewars/Who%20likes%20it%3F.js)
 [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/solutions/javascript)| [solution](https://github.com/Latecoder-hub/Codewars-Solutions/blob/main/Codewars/Persistent%20Bugger.js)
 [Multi-tap Keypad Text Entry on an Old Mobile Phone](https://www.codewars.com/kata/54a2e93b22d236498400134b)| [solution](https://github.com/Latecoder-hub/Codewars-Solutions/blob/main/Codewars/Multi-tap%20Keypad%20Text%20Entry%20on%20an%20Old%20Mobile%20Phone)
-
+[Equal Sides Of An Array]([https://www.codewars.com/kata/54a2e93b22d236498400134b](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/javascript))| [solution](https://github.com/Latecoder-hub/Codewars-Solutions/blob/main/Codewars/Multi-tap%20Keypad%20Text%20Entry%20on%20an%20Old%20Mobile%20Phone)
 <h1></h1> :arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up::arrow_up:
   
